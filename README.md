@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm bean-frog
 ![vscode](https://dev.discordprofiles.me/badge/vscode/692853106895093800)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/692853106895093800)](https://dev.discordprofiles.me/openspotify/692853106895093800)
+![playing](https://dev.discordprofiles.me/badge/playing/692853106895093800)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bean-frog&hide_border=true&border_radius=5&theme=gotham)](https://git.io/streak-stats)
