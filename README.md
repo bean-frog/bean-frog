@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm bean-frog
+<img src="https://komarev.com/ghpvc/?username=bean-frog&color=brightgreen" alt="watching_count" /><img src="https://img.shields.io/github/stars/bean-frog?label=Stars" alt="stars">
+
 ![vscode](https://dev.discordprofiles.me/badge/vscode/692853106895093800)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/692853106895093800)](https://dev.discordprofiles.me/openspotify/692853106895093800)
 ![playing](https://dev.discordprofiles.me/badge/playing/692853106895093800)
