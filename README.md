@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **beanfrog@sug.ma**
 
-- ⚡ Fun fact **Current caffeine record: 1900mg**
+- ⚡ **Current caffeine record (1 sitting): 1900mg** (i have a problem)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
