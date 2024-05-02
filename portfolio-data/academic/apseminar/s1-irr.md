@@ -9,7 +9,7 @@
 <details>
   <summary>click this thing to expand it</summary>
   
-  ### foo fking bar bitch
+  ### foo bar 
   #### this is smaller
   `code lolol`
 </details>
