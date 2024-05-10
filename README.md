@@ -24,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bean-frog&show_icons=true&theme=dark&title_color=8a5cf5&text_color=8a5cf5&locale=en&layout=compact" alt="bean-frog" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bean-frog&show_icons=true&theme=dark&title_color=8a5cf5&text_color=8a5cf5&locale=en" alt="bean-frog" /></p>
-<script>console.log("hello world does this work lol")</script>
