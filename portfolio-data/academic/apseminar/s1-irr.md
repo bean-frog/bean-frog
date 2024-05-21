@@ -1,6 +1,2 @@
-# Semester 1 - Individual Research Report
-## Topic: Racial Bias in Healthcare
----
+<iframe src="https://bean-frog.github.io">
 
-# The Problem
-<p ></p>
